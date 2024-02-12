@@ -5,3 +5,5 @@ CV2 - Python
 MediaPipe
 MTCNN - Python
 Asyncio
+Time
+Numpy
