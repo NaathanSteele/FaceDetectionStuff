@@ -1,5 +1,5 @@
 This was made for fun.
-The Camera FPS may be a bit choppy, trying to fix that right now.
+The Camera FPS Fixed :D, less choppy now.
 Modules Needed: 
 CV2 - Python
 MediaPipe
